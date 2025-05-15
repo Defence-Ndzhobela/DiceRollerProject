@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dice Roller</title>
+  <link rel="stylesheet" href="Dice.css" />
+</head>
+<body>
+
+  <!-- 🎥 Background Video -->
+  <video autoplay muted loop id="bgVideo">
+    <source src="IMAGES/background.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- 📦 Dice Roller Container -->
+  <div id="container">
+    <h1 id="heading">🎲 Dice Roller</h1>
+
+    <label for="numberOfDice">Enter a number (1–6):</label>
+    <input type="number" id="numberOfDice" value="1" min="1" max="6" />
+
+    <button onclick="rollDice()">Roll Dice</button>
+
+    <!-- 🎯 Result Display -->
+    <div id="resultSection">
+      <div id="diceResult"></div>
+      <div id="diceImage"></div>
+      <div id="GuessResult"></div>
+    </div>
+  </div>
+
+  <script src="Dice.js"></script>
+</body>
+</html>
