@@ -1,1 +1,2 @@
-![image alt](https://github.com/Defence-Ndzhobela/DiceRollerProject/blob/3edc28763f495e89a61b2ab7b4b40fb9a7e270ff/Screenshot%202025-05-15%20113310.pnghttps://github.com/Defence-Ndzhobela/DiceRollerProject/blob/a6c6e3ce49ce985afff8f98c0f982330a89f3397/Screenshot%202025-05-15%20113333.png)
+![image alt](https://github.com/Defence-Ndzhobela/DiceRollerProject/blob/3edc28763f495e89a61b2ab7b4b40fb9a7e270ff/Screenshot%202025-05-15%20113310.png)
+![image alt](https://github.com/Defence-Ndzhobela/DiceRollerProject/blob/3edc28763f495e89a61b2ab7b4b40fb9a7e270ff/Screenshot%202025-05-15%20113310.png)
